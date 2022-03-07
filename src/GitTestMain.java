@@ -18,6 +18,7 @@ public class GitTestMain {
 		System.out.println("github에서 수정");
 		
 		System.out.println("hotfix remote push");
+		System.out.println("hotfix remote merge.");
 	}
 
 }
